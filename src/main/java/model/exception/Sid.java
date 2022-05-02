@@ -1,0 +1,9 @@
+package model.exception;
+
+public enum Sid {
+    EMAIL_VALIDATION_ERROR,
+    USERNAME_VALIDATION_ERROR,
+    PASSWORD_VALIDATION_ERROR,
+    ID_VALIDATION_ERROR,
+    NO_SUCH_USER,
+}
